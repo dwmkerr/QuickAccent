@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UseWindowsHotkey>true</UseWindowsHotkey>
+  <StartOnWindowsLogon>true</StartOnWindowsLogon>
+  <ShowBalloonWhenAccentSelected>true</ShowBalloonWhenAccentSelected>
+  <Accents>
+    <Accent DisplayName="á - 'a' acute" AccentValue="á" AltCode="Alt + 225" ShiftDisplayName="Á - 'A' acute" ShiftAccentValue="Á" ShiftAltCode="Alt + 193" ShowInMenu="true" SortCode="0" />
+    <Accent DisplayName="à - 'a' grave" AccentValue="à" AltCode="Alt + 133" ShiftDisplayName="À - 'A' grave" ShiftAccentValue="À" ShiftAltCode="Alt + 0192" ShowInMenu="true" SortCode="0" />
+    <Accent DisplayName="â - 'a' circumflex" AccentValue="â" AltCode="Alt + 131" ShiftDisplayName="Â - 'A' circumflex" ShiftAccentValue="Â" ShiftAltCode="Alt + 0194" ShowInMenu="true" SortCode="2" />
+    <Accent DisplayName="ä - 'a' umlaut" AccentValue="ä" AltCode="Alt + 132" ShiftDisplayName="Ä - 'A' umlaut" ShiftAccentValue="Ä" ShiftAltCode="Alt + 142" ShowInMenu="true" SortCode="4" />
+    <Accent DisplayName="æ - a-e ligature" AccentValue="æ" AltCode="Alt + 145" ShiftDisplayName="Æ - A-E ligature" ShiftAccentValue="Æ" ShiftAltCode="Alt + 146" ShowInMenu="true" SortCode="6" />
+    <Accent DisplayName="ç - 'c' cedille" AccentValue="ç" AltCode="Alt + 135" ShiftDisplayName="Ç - 'C' cedille" ShiftAccentValue="Ç" ShiftAltCode="Alt + 128" ShowInMenu="true" SortCode="8" />
+    <Accent DisplayName="é - 'e' acute" AccentValue="é" AltCode="Alt + 130" ShiftDisplayName="É - 'E' acute" ShiftAccentValue="É" ShiftAltCode="Alt + 144" ShowInMenu="true" SortCode="10" />
+    <Accent DisplayName="è - 'e' grave" AccentValue="è" AltCode="Alt + 138" ShiftDisplayName="È - 'E' grave" ShiftAccentValue="È" ShiftAltCode="Alt + 0200" ShowInMenu="true" SortCode="12" />
+    <Accent DisplayName="ê - 'e' circumflex" AccentValue="ê" AltCode="Alt + 136" ShiftDisplayName="Ê - 'E' circumflex" ShiftAccentValue="Ê" ShiftAltCode="Alt + 0202" ShowInMenu="true" SortCode="14" />
+    <Accent DisplayName="ë - 'e' umlaut" AccentValue="ë" AltCode="Alt + 137" ShiftDisplayName="Ë - 'E' umlaut" ShiftAccentValue="Ë" ShiftAltCode="Alt + 0203" ShowInMenu="true" SortCode="16" />
+    <Accent DisplayName="î - 'i' circumflex" AccentValue="î" AltCode="Alt + 140" ShiftDisplayName="Î - 'I' circumflex" ShiftAccentValue="Î" ShiftAltCode="Alt + 0206" ShowInMenu="true" SortCode="18" />
+    <Accent DisplayName="ï - 'i' umlaut" AccentValue="ï" AltCode="Alt + 139" ShiftDisplayName="Ï - 'I' umlaut" ShiftAccentValue="Ï" ShiftAltCode="Alt + 0207" ShowInMenu="true" SortCode="20" />
+    <Accent DisplayName="ô - 'o' circumflex" AccentValue="ô" AltCode="Alt + 147" ShiftDisplayName="Ô - 'O' circumflex" ShiftAccentValue="Ô" ShiftAltCode="Alt + 0212" ShowInMenu="true" SortCode="22" />
+    <Accent DisplayName="œ - o-e ligature" AccentValue="œ" AltCode="Alt + 0156" ShiftDisplayName="Œ - O-E ligature" ShiftAccentValue="Œ" ShiftAltCode="Alt + 0140" ShowInMenu="true" SortCode="24" />
+    <Accent DisplayName="ú - 'u' acute" AccentValue="ú" AltCode="Alt + 151" ShiftDisplayName="Ú - 'U' acute" ShiftAccentValue="Ú" ShiftAltCode="Alt + 0217" ShowInMenu="true" SortCode="26" />
+    <Accent DisplayName="ù - 'u' grave" AccentValue="ù" AltCode="Alt + 151" ShiftDisplayName="Ù - 'U' grave" ShiftAccentValue="Ù" ShiftAltCode="Alt + 0217" ShowInMenu="true" SortCode="26" />
+    <Accent DisplayName="û - 'u' circumflex" AccentValue="û" AltCode="Alt + 150" ShiftDisplayName="Û - 'U' circumflex" ShiftAccentValue="Û" ShiftAltCode="Alt + 0219" ShowInMenu="true" SortCode="28" />
+    <Accent DisplayName="ü - 'u' umlaut" AccentValue="ü" AltCode="Alt + 129" ShiftDisplayName="Ü - 'U' umlaut" ShiftAccentValue="Ü" ShiftAltCode="Alt + 154" ShowInMenu="true" SortCode="30" />
+    <Accent DisplayName="€ - Euro Symbol" AccentValue="€" AltCode="Alt + 0128" ShowInMenu="true" SortCode="32" Tags="French, Currency" />
+    <Accent DisplayName="« - French Quoation Marks" AccentValue="«" AltCode="Alt + 174" ShowInMenu="true" SortCode="33" Tags="French, Punctuation" />
+    <Accent DisplayName="» - French Quotation Marks" AccentValue="»" AltCode="Alt + 175" ShowInMenu="true" SortCode="34" Tags="French, Punctuation" />
+    <Accent DisplayName="© - Copyright" AccentValue="©" AltCode="Alt + 169" ShowInMenu="true" SortCode="35" Tags="Punctuation" />
+  </Accents>
+</Settings>

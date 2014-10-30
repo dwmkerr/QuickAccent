@@ -1,0 +1,53 @@
+﻿For Version 1.1
+===============
+
+* fix the character map
+
+* Allow menu modes (all, tags, both).
+
+* create basic documentation
+
+* allow sorting/re-ordering
+
+* show menu items only when needed.
+
+* publish to dwmkerr.com
+
+* edit key may be better to have normal, THEN all shifted settings.
+
+* Virtual mode for character map list.
+
+* Think we may need to support keyboard shortcuts for the accents.
+
+* offer to restore old clipboard data after a timeout.
+
+* update tip balloon so that you can click on it to restore the clipboard.
+
+* BUG: Shift selecting items doesn't work properly.
+
+* BUG: Test close on click for menu.
+
+* BUG: Win+Q to open menu, focus elsewhere, Win+Q again, can't move up or down.
+
+For Verison 1.0
+===============
+
+* DONE: Enable the hide window functionality + enable show/hide
+
+* DONE: Invisible by default
+
+* DONE: tooltip for main icon
+
+* DONE: allow tagging
+
+* DONE: allow shift version
+
+* DONE: support shift version.
+
+* DONE: create big icon
+
+* DONE: create installer
+
+* DONE: windows hotkey to open menu. SETTING
+
+* DONE: Improve the icon to stand out more.
