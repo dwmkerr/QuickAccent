@@ -1,6 +1,8 @@
 QuickAccent
 ===========
 
+[![GuardRails badge](https://badges.production.guardrails.io/dwmkerr/QuickAccent.svg)](https://www.guardrails.io)
+
 QuickAccent is a Windows utility that runs in the system
 tray and lets you quickly copy accents and symbols to 
 the clipboard. Just install or run the problem, press
